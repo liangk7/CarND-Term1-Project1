@@ -9,7 +9,7 @@ The goal of this project is to accurately and consistently identify lane lines o
 
 [//]: # (Image References)
 
-[image1]: ./test_images.output/POLYsolidWhiteCurve_1.gray.jpg "Grayscale"
+[image1]: ./test_images_output/POLYsolidWhiteCurve_1.gray.jpg "Grayscale"
 [image2]: ./test_images_output/POLYsolidWhiteCurve_2.blur.jpg "Gaussian Blur"
 [image3]: ./test_images_output/POLYsolidWhiteCurve_3.canny.jpg "Canny Edge"
 [image4]: ./test_images_output/POLYsolidWhiteCurve_4.masked.jpg "Masked Edge"
