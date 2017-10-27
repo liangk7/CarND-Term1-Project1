@@ -5,19 +5,21 @@ The goal of this project is to accurately and consistently identify lane lines o
 * Develop a pipeline that finds lane lines on the road
 * Reflect on project accomplishments and future improvements
 
-[//]: # (Image References)
-[image1]: ./test_images_output/POLYsolidWhiteCurve_1.gray.jpg “Grayscale”
-[image2]: ./test_images_output/POLYsolidWhiteCurve_2.blur.jpg “Gaussian Blur”
-[image3]: ./test_images_output/POLYsolidWhiteCurve_3.canny.jpg “Canny Edge”
-[image4]: ./test_images_output/POLYsolidWhiteCurve_4.masked.jpg “Masked Edge”
-[image5]: ./test_images_output/POLYsolidWhiteCurve_5.lines.jpg “Extrapolated Lines”
-[image6]: ./test_images_output/POLYsolidWhiteCurve_6.OUTPUT.jpg “Output”
-[image7]: ./extra/pipeline.jpg “Pipeline Diagram”
-[image8]: ./test_images_output/ALL3solidYellowCurve2_6.OUTPUT.jpg “Overlay sYC2”
-[image9]: ./test_images_output/ALL3whiteCarLaneSwitch_6.OUTPUT.jpg “Overlay wCLS”
-[image10]: ./test_images_output/ALL3solidYellowLeft_6.OUTPUT.jpg “Overlay sYL”
-[image11]: ./test_images_output/ALL3solidWhiteCurve_6.OUTPUT.jpg “Overlay sWC”
+---
 
+[//]: # (Image References)
+
+[image1]: ./test_images.output/POLYsolidWhiteCurve_1.gray.jpg "Grayscale"
+[image2]: ./test_images_output/POLYsolidWhiteCurve_2.blur.jpg "Gaussian Blur"
+[image3]: ./test_images_output/POLYsolidWhiteCurve_3.canny.jpg "Canny Edge"
+[image4]: ./test_images_output/POLYsolidWhiteCurve_4.masked.jpg "Masked Edge"
+[image5]: ./test_images_output/POLYsolidWhiteCurve_5.lines.jpg "Extrapolated Lines"
+[image6]: ./test_images_output/POLYsolidWhiteCurve_6.OUTPUT.jpg "Output"
+[image7]: ./extra/pipeline.jpg "Pipeline Diagram"
+[image8]: ./test_images_output/ALL3solidYellowCurve2_6.OUTPUT.jpg "Overlay sYC2"
+[image9]: ./test_images_output/ALL3whiteCarLaneSwitch_6.OUTPUT.jpg "Overlay wCLS"
+[image10]: ./test_images_output/ALL3solidYellowLeft_6.OUTPUT.jpg "Overlay sYL"
+[image11]: ./test_images_output/ALL3solidWhiteCurve_6.OUTPUT.jpg "Overlay sWC"
 
 ---
 
