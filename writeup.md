@@ -21,6 +21,14 @@ The goal of this project is to accurately and consistently identify lane lines o
 [image10]: ./test_images_output/ALL3solidYellowLeft_6.OUTPUT.jpg "Overlay sYL"
 [image11]: ./test_images_output/ALL3solidWhiteCurve_6.OUTPUT.jpg "Overlay sWC"
 
+## Sources
+None specified
+
+---
+
+## Writeup/README
+This is the writeup for my Udacity Self-Driving Car Nanodegree Term 1 [Project 1 submission](https://github.com/liangk7/CarND-Term1-Project1) in accordance with the [rubric guidelines](https://review.udacity.com/#!/rubrics/322/view)
+
 ---
 
 ## Reflection
